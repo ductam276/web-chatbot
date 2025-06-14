@@ -9,21 +9,21 @@
     position: fixed;
     top: 0;
 }
-#headbar button {
+#header button {
     border: 0px;
     background-color: white;
 }
-#headbar h1.headtext {
+#header h1.headtext {
     color: gray;
     text-align: center;
 }
-#headbar button.login {
+#header button.login {
     text-transform: uppercase;
     background-color: rgba(174, 174, 216, 0.5);
     border: 2px;
     border-color: black;
 }
-#headbar button.signup {
+#header button.signup {
     text-transform: uppercase;
     background-color: rgba(30, 255, 0, 0.5);
     border: 2px;
